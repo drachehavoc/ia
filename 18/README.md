@@ -4,20 +4,21 @@ https://www.caelum.com.br/apostila-java-orientacao-objetos/
 
 - [x] Classes
 - [ ] Pacotes
-- [ ] Construtores
+- [x] Construtores
   - [ ] Super
 - [x] Objetos
 - [x] Atributos
 - [x] Métodos
-- [ ] Getters
-- [ ] Setters
+- [x] Getters
+- [x] Setters
 - [x] Herança (extends)
 - [ ] Polimorfismo
-- [x] Abstração
+- [ ] Override
+- [x] Abstração/Emcapsulamento
+  - [x] Estáticos
   - [x] public
   - [x] private
   - [x] protected
-- [ ] Override
 - [ ] Controle de Exceções
   - [ ] Erros?
   - [ ] Exceções?
